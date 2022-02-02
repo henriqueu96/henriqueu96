@@ -3,7 +3,7 @@
 
 Desenvolvedor, moro em Porto Alegre (RS).
 
-[Dotfiles]("https://github.com/henriqueu96/dotfiles")
+[dotfiles](https://github.com/henriqueu96/dotfiles)
 
 ## Projetos:
 ### Graduação em Sistemas da Informação (PUCRS)👨‍🎓: 
