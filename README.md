@@ -8,12 +8,12 @@ Sou formado em Sistemas de Informação e trabalho com desenvolvimento de sistem
 ___
 ## ✍  Blog
 
-- [Mocks com Moq]("https://github.com/henriqueu96/blog/blob/master/Testes%20de%20unidade/Mocking%20com%20Moq.md")
+- [Mocks com Moq](https://github.com/henriqueu96/blog/blob/master/Testes%20de%20unidade/Mocking%20com%20Moq.md)
   - dublê/Fake/Stub/Mock
   - setup/verify
   - moq
 
-- [Testes de unidade com NUnit]("https://github.com/henriqueu96/blog/blob/master/Testes%20de%20unidade/Testes%20com%20NUnit.md")
+- [Testes de unidade com NUnit](https://github.com/henriqueu96/blog/blob/master/Testes%20de%20unidade/Testes%20com%20NUnit.md)
   - padrão 3As
   - Asserções
   - nUnit
