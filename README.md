@@ -8,15 +8,23 @@ Sou formado em Sistemas de Informação e trabalho com desenvolvimento de sistem
 ___
 ## ✍  Blog
 
+- [CI e CD com Angular, Github actions e Heroku](https://github.com/henriqueu96/heroku-deploy-angular)
+  - Github Actions
+  - Heroku
+  - CI/CD
+  - WIP (Em desenvolvimento)
+
 - [Mocks com Moq](https://github.com/henriqueu96/blog/blob/master/Testes%20de%20unidade/Mocking%20com%20Moq.md)
   - dublê/Fake/Stub/Mock
   - setup/verify
   - moq
+  - 04/06/2019
 
 - [Testes de unidade com NUnit](https://github.com/henriqueu96/blog/blob/master/Testes%20de%20unidade/Testes%20com%20NUnit.md)
   - padrão 3As
   - Asserções
   - nUnit
+  - 04/06/2019
 
 ___
 ## Projetos:
